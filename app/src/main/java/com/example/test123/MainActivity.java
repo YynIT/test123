@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // 创建新分支dev
         // 重新clone代码，切到dev分支，提交
+        // 创建新分支feature
     }
 }
