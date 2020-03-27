@@ -15,5 +15,11 @@ public class MainActivity extends AppCompatActivity {
         // 创建新分支feature
         // 分支feature,再次提交
         // 创建新分支feature_1
+        // 在dev分支上创建新分支dev_1
+        // 再提交dev_1
+        // 我是员工甲,在dev_1分支上改动
+        // 我是员工已,在dev_1分支上改动
+        // 我是test123,在dev_1分支上改动
+        // 我是test123,在dev_1分支上改动，需要此改动merge到dev上
     }
 }
